@@ -1,4 +1,4 @@
-## Exercice de Mercredi 24 Octobre sur le Morpion :sunny: 
+## Exercice de Mercredi 24 Octobre :sunny: 
 ### Greetings
 <p>Dear moussaillon,</p>
 <p>Attaché à ce repo se trouve l'exo sur le blog réalisé avec ActiveRecord</strong></p>
